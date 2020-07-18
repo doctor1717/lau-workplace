@@ -3,6 +3,7 @@ package com.zcy;
 import java.util.Arrays;
 import java.util.Comparator;
 
+//  测试注释
 public class KMP {
     //找到则返回起始坐标，否则返回-1
     public static int doKMP(String s1,String s2){
